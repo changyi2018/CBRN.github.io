@@ -5,7 +5,7 @@ layout: default
 # China Business Research Group <br> 中国管理研究网络
 
 
-## <center>**CBRN mission statement**</center>
+## **<center>CBRN mission statement</center>**
  
 > The China Business Research Network (CBRN) is jointly organized by researchers at the Chinese University of Hong Kong (Shenzhen), National University of Singapore, Peking University, the University of Southern California, and the University of Toronto. The primary objective of CBRN is to promote a deep understanding of China’s business environment through the lens of high-quality academic research. Through monthly seminars and other activities, we hope to provide a neutral platform for academic researchers around the world to discuss cutting-edge China-related topics across various business fields, including but not limited to accounting, finance, information systems, and management. Over time, we hope that CBRN can become a central intellectual hub that provides researchers in business and other related disciplines with the opportunity to network with colleagues with similar research interests on a regular basis and better understand China and its business environment.
 
