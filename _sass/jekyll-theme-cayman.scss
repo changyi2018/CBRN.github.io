@@ -110,7 +110,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('./assets/images/china_background.jpeg'); //linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 3rem 4rem;
@@ -352,7 +352,6 @@ a {
 }
 
 .site-footer {
-  color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
   padding-top: 2rem;
