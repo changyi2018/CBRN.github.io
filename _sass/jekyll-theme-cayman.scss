@@ -352,6 +352,9 @@ a {
 }
 
 .site-footer {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
