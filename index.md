@@ -1,13 +1,13 @@
-## 中国管理研究网络
+# 中国管理研究网络
 
 
-### CBRN mission statement
+## CBRN mission statement
  
 > The China Business Research Network (CBRN) is jointly organized by researchers at the Chinese University of Hong Kong (Shenzhen), National University of Singapore, Peking University, the University of Southern California, and the University of Toronto. The primary objective of CBRN is to promote a deep understanding of China’s business environment through the lens of high-quality academic research. Through monthly seminars and other activities, we hope to provide a neutral platform for academic researchers around the world to discuss cutting-edge China-related topics across various business fields, including but not limited to accounting, finance, information systems, and management. Over time, we hope that CBRN can become a central intellectual hub that provides researchers in business and other related disciplines with the opportunity to network with colleagues with similar research interests on a regular basis and better understand China and its business environment.
 
 ***
 
-### CBRN seminar format
+## CBRN seminar format
  
 > The seminars will be hosted on a monthly basis starting September 2021, and will take place over Zoom on Wednesdays 9:00-10:30am CST/SGT; Tuesdays 6:00-7:30pm PST; Tuesdays 9:00-10:30pm EST. Each seminar will consist of a 1.5-hour presentation including Q&As. 
 > 
@@ -17,15 +17,15 @@
 
 ***
 
-### Seminar Schedule
+## Seminar Schedule
 Upcoming events
 
 Coming soon
 
 ***
 
-### CBRN Committee
-#### Advising Committee 
+## CBRN Committee
+### Advising Committee 
  
 *   [Nan Jia (USC)](https://www.marshall.usc.edu/personnel/nan-jia)
 
@@ -37,7 +37,7 @@ Coming soon
 
 *   [Tianyu Zhang (CUHK Shenzhen)](https://sfi.cuhk.edu.cn/en/show-28-25.html)
  
-#### Organizing Committee 
+### Organizing Committee 
  
 *   Changyi Chen (NUS)
 
