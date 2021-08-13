@@ -1,9 +1,8 @@
 ---
 layout: default
+title: China Business Research Group
+description: 中国管理研究网络
 ---
-
-# China Business Research Group <br> 中国管理研究网络
-
 
 ## **<center>CBRN mission statement</center>**
  
