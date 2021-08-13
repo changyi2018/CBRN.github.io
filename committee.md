@@ -30,7 +30,7 @@ description: 中国管理研究网络
 *   Shubo Zhang (CUHK)
 
 ## **<center>Universities</center>**
-![CUHKSZ_logo](./assets/images/CUHKSZ_logo.png)
+![CUHKSZ_logo](./assets/images/CUHKSZ_logo.jpeg)
 ![NUS_logo](./assets/images/NUS_logo.jpeg)
 
 ![Peking_logo](./assets/images/Peking_logo.jpeg)
