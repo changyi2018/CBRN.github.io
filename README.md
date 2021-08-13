@@ -1,5 +1,6 @@
-China Business Research Network
-中国管理研究网络
+# China Business Research Network
+## 中国管理研究网络
+
 
 CBRN mission statement
  
