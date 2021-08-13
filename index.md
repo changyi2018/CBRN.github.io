@@ -1,6 +1,6 @@
 ---
 layout: default
-title: China Business Research Group
+title: China Business Research Network
 description: 中国管理研究网络
 ---
 
