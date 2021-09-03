@@ -17,4 +17,4 @@ The title and abstract of the paper is as follows:
 
 The past 25 years have seen an exponential growth in the number of China studies in the leading accounting journals. The rise in China-related research mirrors the country’s increased importance on the global stage. We organize our review of the China literature around three central themes: 1) political and regulatory forces, 2) China’s relations with the outside world, and 3) the availability of novel data and regulatory shocks. The former two themes address research questions that are more China-centric, while the third exploits the China setting to examine questions that are less China specific. We highlight the contributions that China studies have made to the broader accounting literature, the limitations of the current literature, and we offer suggestions for future research directions. 
 
-Register for CBRN seminars: http://hk.mikecrm.com/4GHAgZg.
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
