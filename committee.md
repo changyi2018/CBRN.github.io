@@ -4,6 +4,10 @@ title: China Business Research Network
 description: 中国管理研究网络
 ---
 
+## **<center>Contact us</center>**
+Please feel free to contact us via email: cbrn@cuhk.edu.cn.
+
+
 ## **<center>CBRN Committee</center>**
 ### **<center>Advising Committee</center>**
  
