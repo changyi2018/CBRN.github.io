@@ -21,9 +21,7 @@ This study examines how trade protections, such as anti-dumping sanctions on for
 
 ## **<center>Past workshops</center>**
 ### **<center>Second workshop</center>**
-Our second speaker is Yongxiang Wang. 
-
-The title and abstract of the paper is as follows:
+Our second speaker was Yongxiang Wang. The title and abstract of the paper is as follows:
 
 #### **<center>The Chinese Collectibles Bubble </center>** 
 
