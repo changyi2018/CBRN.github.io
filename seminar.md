@@ -9,14 +9,16 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Fourth workshop</center>**
-Our next speaker is Yue Zhang from Westlake University. The seminar will take place on: Dec. 22, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Nov. 16, 2021, 5:00pm-6:30pm, PST / Nov. 16, 2021, 8:00pm-9:30pm, EST. 
+Our next speaker is Yue Zhang from Westlake University. The seminar will take place on: Dec. 22, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Dec. 21, 2021, 5:00pm-6:30pm, PST / Dec. 21, 2021, 8:00pm-9:30pm, EST. 
 
 The title and abstract of the paper is as follows:
 
 #### **<center>Recent progress and challenges in machine learning for Natural Language Processing (NLP) </center>** 
 
 In recent years, artificial intelligence has received increasing attention. Deep learning technology has enabled intelligent systems to perform tasks that are far more complex compared to what machines could do a decade ago. Investigating automatic understanding and generation of natural language texts, natural language processing has been a central topic of artificial intelligence since its dawn, and human language dialogue capabilities has been recognised as a major metric for evaluating artificial intelligence. Advances in the field allow intelligent systems to perform automatic speech to speech translation, question answering, essay scoring, automatic auditing and algorithm trading by news reading.
+
 The field of natural language processing has evolved since the early days of computer science, going through three main stages, where rule-based methods, statistical methods and deep learning methods dominate the literature, respectively. Researchers and engineers have seen a shift from linguistic feature engineering to parameter tuning in their daily work as the state-of-the-art approaches shift from statistical learning to deep learning. Today, deep learning not only allows natural language processing systems to perform much better on existing tasks such as syntactic parsing and automatic machine translation, but also enables new tasks to be investigated.
+
 This talk aims to introduce the field of natural language processing from a machine learning perspective, laying out the mathematical and algorithmic foundations for the major technologies of this field. The organisation follows the order of increasing complexity, which is also largely consistent with the development history of NLP technologies. In particular, an overview of major NLP tasks is introduced first, and the remaining talk evolves around machine learning methods. 
 
 **Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
