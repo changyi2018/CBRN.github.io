@@ -9,7 +9,7 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Fourth workshop</center>**
-Our next speaker is Yue Zhang from Westlake University. His personal website is https://frcchang.github.io/index.html.
+Our next speaker is Yue Zhang from Westlake University. His personal website is [https://frcchang.github.io/index.html](https://frcchang.github.io/index.html).
 
 The seminar will take place on: Dec. 22, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Dec. 21, 2021, 5:00pm-6:30pm, PST / Dec. 21, 2021, 8:00pm-9:30pm, EST. 
 
@@ -27,7 +27,7 @@ This talk aims to introduce the field of natural language processing from a mach
 
 ## **<center>Past workshops</center>**
 ### **<center>Third workshop</center>**
-Our third speaker was Kenneth Huang from National University of Singapore. His personal website is https://sites.google.com/site/kennethhuang/. The title and abstract of the paper is as follows:
+Our third speaker was Kenneth Huang from National University of Singapore. His personal website is [https://sites.google.com/site/kennethhuang/](https://sites.google.com/site/kennethhuang/). The title and abstract of the paper is as follows:
 
 #### **<center>Trade Protection and Firm Innovation: Impact from U.S. Anti-Dumping Sanctions on Innovation Output in China </center>** 
 
@@ -35,7 +35,7 @@ This study examines how trade protections, such as anti-dumping sanctions on for
 
 
 ### **<center>Second workshop</center>**
-Our second speaker was Yongxiang Wang from Chinese University of Hong Kong (Shenzhen). His personal website is https://sites.google.com/view/yongxiangwang. The title and abstract of the paper is as follows:
+Our second speaker was Yongxiang Wang from Chinese University of Hong Kong (Shenzhen). His personal website is [https://sites.google.com/view/yongxiangwang](https://sites.google.com/view/yongxiangwang). The title and abstract of the paper is as follows:
 
 #### **<center>The Chinese Collectibles Bubble </center>** 
 
@@ -43,7 +43,7 @@ Using novel, hand-collected data from the largest Chinese collectibles exchange,
 
 
 ### **<center>First workshop</center>**
-Our first speaker was Clive Lennox from University of Southern California. His personal website is https://www.marshall.usc.edu/personnel/clive-lennox.
+Our first speaker was Clive Lennox from University of Southern California. His personal website is [https://www.marshall.usc.edu/personnel/clive-lennox](https://www.marshall.usc.edu/personnel/clive-lennox).
 The title and abstract of the paper is as follows:
 
 #### **<center>A review of China-related accounting research in the past 25 years </center>** 
