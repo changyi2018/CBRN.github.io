@@ -8,10 +8,22 @@ description: 中国管理研究网络
 If you are interested in receiving information about future workshops, please fill out the following survey form: [here](http://hk.mikecrm.com/4GHAgZg). Please feel free to share this information with anyone else who may be interested.
 
 ## **<center>Workshop Schedule</center>**
-### **<center>Fourth workshop</center>**
-Our next speaker is Yue Zhang from Westlake University. His personal website is [https://frcchang.github.io/index.html](https://frcchang.github.io/index.html).
+### **<center>Fifth workshop</center>**
+Our next speaker is Bohui Zhang from The Chinese University of Hong Kong, Shenzhen. His personal website is [https://sites.google.com/site/bohuizhang/](https://sites.google.com/site/bohuizhang/).
 
-The seminar will take place on: Dec. 22, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Dec. 21, 2021, 5:00pm-6:30pm, PST / Dec. 21, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Jan. 12, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Jan. 11, 2021, 5:00pm-6:30pm, PST / Jan. 11, 2021, 8:00pm-9:30pm, EST. 
+
+The title and abstract of the paper is as follows:
+
+#### **<center>Knowledge is Power: A Field Experiment in Chinese and US Stock Markets </center>** 
+
+This study examines the causal impact of financial knowledge on stock pricing efficiency. We created an investor education website and conducted a field experiment by providing knowledge about the pricing implications of accounting accruals to investors in randomized stock groups via social media in both China and the US. We find that treatment stocks experience a reduction in accrual mispricing relative to control stocks, and that the effect is most pronounced when both conceptual and methodological knowledge about accruals is provided. The education effect is stronger among stocks with investors who are either less sophisticated or can study the knowledge more intensively. Finally, we document a real effect of financial knowledge on firms. Treatment firms experience a decline in discretionary accruals in the post-experiment period, especially when they are heavily owned by individual investors or less monitored by institutions. 
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
+## **<center>Past workshops</center>**
+### **<center>Fourth workshop</center>**
+The speaker for our fourth workshop was Yue Zhang from Westlake University. His personal website is [https://frcchang.github.io/index.html](https://frcchang.github.io/index.html).
 
 The title and abstract of the paper is as follows:
 
@@ -23,9 +35,6 @@ The field of natural language processing has evolved since the early days of com
 
 This talk aims to introduce the field of natural language processing from a machine learning perspective, laying out the mathematical and algorithmic foundations for the major technologies of this field. The organisation follows the order of increasing complexity, which is also largely consistent with the development history of NLP technologies. In particular, an overview of major NLP tasks is introduced first, and the remaining talk evolves around machine learning methods. 
 
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
-
-## **<center>Past workshops</center>**
 ### **<center>Third workshop</center>**
 Our third speaker was Kenneth Huang from National University of Singapore. His personal website is [https://sites.google.com/site/kennethhuang/](https://sites.google.com/site/kennethhuang/). The title and abstract of the paper is as follows:
 
