@@ -8,10 +8,22 @@ description: 中国管理研究网络
 If you are interested in receiving information about future workshops, please fill out the following survey form: [here](http://hk.mikecrm.com/4GHAgZg). Please feel free to share this information with anyone else who may be interested.
 
 ## **<center>Workshop Schedule</center>**
-### **<center>Fifth workshop</center>**
-Our next speaker is Bohui Zhang from The Chinese University of Hong Kong, Shenzhen. His personal website is [https://sites.google.com/site/bohuizhang/](https://sites.google.com/site/bohuizhang/).
+### **<center>Next workshop</center>**
+Our next speaker is Hong Ru from Nanyang Technological University. His personal website is [https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98](https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98).
 
-The seminar will take place on: Jan. 12, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Jan. 11, 2021, 5:00pm-6:30pm, PST / Jan. 11, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Feb. 23, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Feb. 22, 2021, 5:00pm-6:30pm, PST / Feb. 22, 2021, 8:00pm-9:30pm, EST. 
+
+The title and abstract of the paper is as follows:
+
+#### **<center>Government Credit and Industrial Pollution </center>** 
+
+Using firm-level pollution data from Environmental Survey and Reporting Database in China and loan data from the China Development Bank (CDB), we analyze how government-subsidized credit from the CDB affects firm pollution activities from a supply chain perspective. Consistent with prior studies, we find that while SOEs in China produce substantially more pollution (e.g., emissions of chemical oxygen demand (COD), sulfur dioxide (SO2), ammonia-nitrogen (NH3-N), wastewater discharge, and waste gas emission) than private firms, CDB credit helps reduce the pollution from SOEs much more than the reductions from private firms. Moreover, we find that CDB credit to strategic industries at the top of the supply chain is associated with lower pollution levels for firms in downstream industries. We further shed light on the mechanisms underlying such CDB credit positive spillovers across the supply chain through emission abatement actions and outcomes. First, we find that CDB loans induce SOEs to use substantially less water and coals in their production than private firms. In particular, one standard deviation increase in CDB direct loan (upstream loan) is associated with an additional 2.35% (4.79%) reduction in freshwater usage and 8.4% (3.48%) decrease in coal usage compared to private firms. Second, the results suggest that CDB loans enable SOEs to reduce COD pollution through better treatment of COD {COD treatment/(COD treatment+COD emission)} compared to private firms. Our findings suggest the important role of government credit in reducing pollution across the supply chain.
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
+## **<center>Past workshops</center>**
+### **<center>Fifth workshop</center>**
+The speaker for our fifth workshop was Bohui Zhang from The Chinese University of Hong Kong, Shenzhen. His personal website is [https://sites.google.com/site/bohuizhang/](https://sites.google.com/site/bohuizhang/).
 
 The title and abstract of the paper is as follows:
 
@@ -19,9 +31,6 @@ The title and abstract of the paper is as follows:
 
 This study examines the causal impact of financial knowledge on stock pricing efficiency. We created an investor education website and conducted a field experiment by providing knowledge about the pricing implications of accounting accruals to investors in randomized stock groups via social media in both China and the US. We find that treatment stocks experience a reduction in accrual mispricing relative to control stocks, and that the effect is most pronounced when both conceptual and methodological knowledge about accruals is provided. The education effect is stronger among stocks with investors who are either less sophisticated or can study the knowledge more intensively. Finally, we document a real effect of financial knowledge on firms. Treatment firms experience a decline in discretionary accruals in the post-experiment period, especially when they are heavily owned by individual investors or less monitored by institutions. 
 
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
-
-## **<center>Past workshops</center>**
 ### **<center>Fourth workshop</center>**
 The speaker for our fourth workshop was Yue Zhang from Westlake University. His personal website is [https://frcchang.github.io/index.html](https://frcchang.github.io/index.html).
 
