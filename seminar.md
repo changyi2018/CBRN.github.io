@@ -9,9 +9,22 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-Our next speaker is Hong Ru from Nanyang Technological University. His personal website is [https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98](https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98).
+Our next speaker is Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
 
-The seminar will take place on: Feb. 23, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Feb. 22, 2021, 5:00pm-6:30pm, PST / Feb. 22, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Mar. 30, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Feb. 22, 2021, 5:00pm-6:30pm, PST / Feb. 22, 2021, 8:00pm-9:30pm, EST. 
+
+The title and abstract of the paper is as follows:
+
+#### **<center>Social Media and Government Responsiveness: Evidence from Vaccine Procurements in China</center>** 
+
+This paper studies whether and how public opinion on social media affects prefectural governments' procurements of vaccines in China from 2014 to 2019. To identify causal effects, we exploit the regional variation in public opinion induced by explosive online attention to vaccine issues following sudden vaccination scandals. We find that governments in regions with more intensive social media discussion increased the frequency and share of the more-transparent (open-bidding vs. private arrangement) format of procurements for vaccine-related products. The effects are robust when we use early-stage social media penetration in China as an instrumental variable. Moreover, the effects are stronger in regions where governments adopt more surveillance technology and in regions where local officials have stronger career concerns. Our overall findings shed light on the mechanisms and limitations regarding the effect of social media on government accountability.
+
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
+## **<center>Past workshops</center>**
+### **<center>Next workshop</center>**
+The speaker for our sixth workshop was Hong Ru from Nanyang Technological University. His personal website is [https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98](https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98).
 
 The title and abstract of the paper is as follows:
 
@@ -19,9 +32,7 @@ The title and abstract of the paper is as follows:
 
 Using firm-level pollution data from Environmental Survey and Reporting Database in China and loan data from the China Development Bank (CDB), we analyze how government-subsidized credit from the CDB affects firm pollution activities from a supply chain perspective. Consistent with prior studies, we find that while SOEs in China produce substantially more pollution (e.g., emissions of chemical oxygen demand (COD), sulfur dioxide (SO2), ammonia-nitrogen (NH3-N), wastewater discharge, and waste gas emission) than private firms, CDB credit helps reduce the pollution from SOEs much more than the reductions from private firms. Moreover, we find that CDB credit to strategic industries at the top of the supply chain is associated with lower pollution levels for firms in downstream industries. We further shed light on the mechanisms underlying such CDB credit positive spillovers across the supply chain through emission abatement actions and outcomes. First, we find that CDB loans induce SOEs to use substantially less water and coals in their production than private firms. In particular, one standard deviation increase in CDB direct loan (upstream loan) is associated with an additional 2.35% (4.79%) reduction in freshwater usage and 8.4% (3.48%) decrease in coal usage compared to private firms. Second, the results suggest that CDB loans enable SOEs to reduce COD pollution through better treatment of COD {COD treatment/(COD treatment+COD emission)} compared to private firms. Our findings suggest the important role of government credit in reducing pollution across the supply chain.
 
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
 
-## **<center>Past workshops</center>**
 ### **<center>Fifth workshop</center>**
 The speaker for our fifth workshop was Bohui Zhang from The Chinese University of Hong Kong, Shenzhen. His personal website is [https://sites.google.com/site/bohuizhang/](https://sites.google.com/site/bohuizhang/).
 
