@@ -11,7 +11,7 @@ If you are interested in receiving information about future workshops, please fi
 ### **<center>Next workshop</center>**
 Our next speaker is Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
 
-The seminar will take place on: Mar. 30, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Feb. 22, 2021, 5:00pm-6:30pm, PST / Feb. 22, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Mar. 30, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Mar. 29, 2021, 5:00pm-6:30pm, PST / Mar. 29, 2021, 8:00pm-9:30pm, EST. 
 
 The title and abstract of the paper is as follows:
 
