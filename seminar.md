@@ -11,7 +11,7 @@ If you are interested in receiving information about future workshops, please fi
 ### **<center>Next workshop</center>**
 Our next speaker is Eric Zheng from University of Texas at Dallas. His personal website is [https://personal.utdallas.edu/~ericz/](https://personal.utdallas.edu/~ericz/).
 
-The seminar will take place on: Apr. 6, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Apr. 5, 2021, 5:00pm-6:30pm, PST / Apr. 5, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Apr. 6, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Apr. 5, 2021, 6:00pm-7:30pm, PST / Apr. 5, 2021, 9:00pm-10:30pm, EST. 
 
 The title and abstract of the paper is as follows:
 
