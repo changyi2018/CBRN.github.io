@@ -24,7 +24,7 @@ Natural disasters wreak economic damage and cause financial distress to victims.
 
 ## **<center>Past workshops</center>**
 ### **<center>Seventh workshop</center>**
-Our next speaker was Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
+The speaker for our seventh workshop was Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
 
 The title and abstract of the paper is as follows:
 
