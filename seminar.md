@@ -9,9 +9,22 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-Our next speaker is Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
+Our next speaker is Eric Zheng from University of Texas at Dallas. His personal website is [https://personal.utdallas.edu/~ericz/](https://personal.utdallas.edu/~ericz/).
 
-The seminar will take place on: Mar. 30, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Mar. 29, 2021, 5:00pm-6:30pm, PST / Mar. 29, 2021, 8:00pm-9:30pm, EST. 
+The seminar will take place on: Apr. 6, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Apr. 5, 2021, 5:00pm-6:30pm, PST / Apr. 5, 2021, 8:00pm-9:30pm, EST. 
+
+The title and abstract of the paper is as follows:
+
+#### **<center>The Mercy of AI: Combating Natural Disasters through Lending</center>** 
+
+Natural disasters wreak economic damage and cause financial distress to victims. However, when those in need of money apply for loans, lending firms often tighten up their lending practice as a reaction to victims’ impaired repayment ability. In this study, we show how lenders’ use of AI can help those who suffer from natural disasters. Collaborating with a leading credit scoring company in China that offers AI-as-a-Service (AIaaS) for lenders, we are able to observe lenders’ use of AI services in assessing the risk of loan applications. Through a Stochastic Frontier Analysis, we find that lenders who use AI services fare better in reducing the default rate of applicants suffering from natural disasters. Notably, such a default reduction effect is more pronounced for underprivileged borrowers with lower credit scores. We explore possible mechanisms under play and discuss the societal implications of our findings.
+
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
+## **<center>Past workshops</center>**
+### **<center>Seventh workshop</center>**
+Our next speaker was Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
 
 The title and abstract of the paper is as follows:
 
@@ -19,11 +32,7 @@ The title and abstract of the paper is as follows:
 
 This paper studies whether and how public opinion on social media affects local governments' procurement of vaccines in China from 2014 to 2019. To identify causal effects, we exploit the regional variation in the eruption of social-media opinion on vaccine safety following sudden vaccination scandals. We find that governments in cities exposed to more intensive social media discussion increased the frequency and share of the more-transparent (open-bidding versus private arrangement) format of procurement for vaccine-related products. The effects are robust when we use early-stage social media penetration in China as an instrumental variable. Moreover, the effects are larger in cities where governments adopted more surveillance technology, the information environment was more strictly controlled, and local officials had stronger career concerns. Our overall findings shed light on the mechanisms and limitations regarding the effect of social media on policy compliance and government accountability.
 
-
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
-
-## **<center>Past workshops</center>**
-### **<center>Next workshop</center>**
+### **<center>Sixth workshop</center>**
 The speaker for our sixth workshop was Hong Ru from Nanyang Technological University. His personal website is [https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98](https://hongru.mit.edu/hong-ru-%E8%8C%B9%E5%BC%98).
 
 The title and abstract of the paper is as follows:
