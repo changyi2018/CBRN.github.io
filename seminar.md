@@ -23,6 +23,15 @@ Natural disasters wreak economic damage and cause financial distress to victims.
 **Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
 
 ## **<center>Past workshops</center>**
+### **<center>Eighth workshop</center>**
+The speaker for our eighth workshop was Eric Zheng from University of Texas at Dallas. His personal website is [https://personal.utdallas.edu/~ericz/](https://personal.utdallas.edu/~ericz/).
+
+The title and abstract of the paper is as follows:
+
+#### **<center>The Mercy of AI: Combating Natural Disasters through Lending</center>** 
+
+Natural disasters wreak economic damage and cause financial distress to victims. However, when those in need of money apply for loans, lending firms often tighten up their lending practice as a reaction to victims’ impaired repayment ability. In this study, we show how lenders’ use of AI can help those who suffer from natural disasters. Collaborating with a leading credit scoring company in China that offers AI-as-a-Service (AIaaS) for lenders, we are able to observe lenders’ use of AI services in assessing the risk of loan applications. Through a Stochastic Frontier Analysis, we find that lenders who use AI services fare better in reducing the default rate of applicants suffering from natural disasters. Notably, such a default reduction effect is more pronounced for underprivileged borrowers with lower credit scores. We explore possible mechanisms under play and discuss the societal implications of our findings.
+
 ### **<center>Seventh workshop</center>**
 The speaker for our seventh workshop was Yanhui Wu from University of Hong Kong. His personal website is [http://www.yanhuiwu.com/](http://www.yanhuiwu.com/).
 
