@@ -9,15 +9,15 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-Our next speaker is Eric Zheng from University of Texas at Dallas. His personal website is [https://personal.utdallas.edu/~ericz/](https://personal.utdallas.edu/~ericz/).
+Our next speaker is Yuan Zhang from University of Texas at Dallas. Her personal website is [https://profiles.utdallas.edu/yuan.zhang2](https://profiles.utdallas.edu/yuan.zhang2).
 
-The seminar will take place on: Apr. 6, 2021, 9:00am-10:30am, Beijing Time (GMT+8) / Apr. 5, 2021, 6:00pm-7:30pm, PST / Apr. 5, 2021, 9:00pm-10:30pm, EST. 
+The seminar will take place on: May 25, 2022, 9:00am-10:30am, Beijing Time (GMT+8) / May 24, 2022, 6:00pm-7:30pm, PST / May 24, 2022, 9:00pm-10:30pm, EST. 
 
 The title and abstract of the paper is as follows:
 
-#### **<center>The Mercy of AI: Combating Natural Disasters through Lending</center>** 
+#### **<center>The Bright and Dark Side of a News Paywall</center>** 
 
-Natural disasters wreak economic damage and cause financial distress to victims. However, when those in need of money apply for loans, lending firms often tighten up their lending practice as a reaction to victims’ impaired repayment ability. In this study, we show how lenders’ use of AI can help those who suffer from natural disasters. Collaborating with a leading credit scoring company in China that offers AI-as-a-Service (AIaaS) for lenders, we are able to observe lenders’ use of AI services in assessing the risk of loan applications. Through a Stochastic Frontier Analysis, we find that lenders who use AI services fare better in reducing the default rate of applicants suffering from natural disasters. Notably, such a default reduction effect is more pronounced for underprivileged borrowers with lower credit scores. We explore possible mechanisms under play and discuss the societal implications of our findings.
+We examine the implications of a news paywall for the capital market by exploiting the adoption of a digital subscription model by Caixin.com, a major financial media outlet in China as a quasi-experiment. Using a difference-in-difference research design, we find that news articles at Caixin.com have more original and detailed content and have higher associations with future earnings news after the paywall implementation than before, compared to control media outlets. However, news articles behind the paywall are associated with higher bid-ask spreads relative to other news articles. Further analyses show the paywall leads to a decrease in retail investors’ activities on social media, but an increase in forecast accuracy by analysts who are more likely to subscribe to Caixin.com. Overall, we provide novel evidence that a news paywall improves news quality but also contributes to an unlevel playing field for investors.
 
 
 **Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
