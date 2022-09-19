@@ -9,9 +9,22 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-Our next speaker is Yuan Zhang from University of Texas at Dallas. Her personal website is [https://profiles.utdallas.edu/yuan.zhang2](https://profiles.utdallas.edu/yuan.zhang2).
+Our next speaker is David Yang from Harvard University. His personal website is [http://davidyyang.com/](http://davidyyang.com/).
 
-The seminar will take place on: May 25, 2022, 9:00am-10:30am, Beijing Time (GMT+8) / May 24, 2022, 6:00pm-7:30pm, PST / May 24, 2022, 9:00pm-10:30pm, EST. 
+The seminar will take place on: Sept. 21, 2022, 9:00am-10:30am, Beijing Time (GMT+8) / Sept. 20, 2022, 6:00pm-7:30pm, PST / Sept. 20, 2022, 9:00pm-10:30pm, EST. 
+
+The title and abstract of the paper is as follows:
+
+#### **<center>Exporting the Surveillance State via Trade in AI</center>** 
+
+What are the international ramifications of China’s emergent leadership in facial recognition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI innovation or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.
+
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
+## **<center>Past workshops</center>**
+### **<center>Ninth workshop</center>**
+The speaker of our ninth seminar was Yuan Zhang from University of Texas at Dallas. Her personal website is [https://profiles.utdallas.edu/yuan.zhang2](https://profiles.utdallas.edu/yuan.zhang2).
 
 The title and abstract of the paper is as follows:
 
@@ -19,10 +32,6 @@ The title and abstract of the paper is as follows:
 
 We examine the implications of a news paywall for the capital market by exploiting the adoption of a digital subscription model by Caixin.com, a major financial media outlet in China as a quasi-experiment. Using a difference-in-difference research design, we find that news articles at Caixin.com have more original and detailed content and have higher associations with future earnings news after the paywall implementation than before, compared to control media outlets. However, news articles behind the paywall are associated with higher bid-ask spreads relative to other news articles. Further analyses show the paywall leads to a decrease in retail investors’ activities on social media, but an increase in forecast accuracy by analysts who are more likely to subscribe to Caixin.com. Overall, we provide novel evidence that a news paywall improves news quality but also contributes to an unlevel playing field for investors.
 
-
-**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
-
-## **<center>Past workshops</center>**
 ### **<center>Eighth workshop</center>**
 The speaker for our eighth workshop was Eric Zheng from University of Texas at Dallas. His personal website is [https://personal.utdallas.edu/~ericz/](https://personal.utdallas.edu/~ericz/).
 
