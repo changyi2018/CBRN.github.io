@@ -9,9 +9,9 @@ If you are interested in receiving information about future workshops, please fi
 
 ## **<center>Workshop Schedule</center>**
 ### **<center>Next workshop</center>**
-Our next speaker is David Yang from Harvard University. His personal website is [http://davidyyang.com/](http://davidyyang.com/).
+Our next speaker is Yanbo Wang from the University of Hong Kong. His personal website is [https://www.hkubs.hku.hk/people/yanbo-wang/](https://www.hkubs.hku.hk/people/yanbo-wang/).
 
-The seminar will take place on: Sept. 21, 2022, 9:00am-10:30am, Beijing Time (GMT+8) / Sept. 20, 2022, 6:00pm-7:30pm, PST / Sept. 20, 2022, 9:00pm-10:30pm, EST. 
+The seminar will take place on: Oct. 12, 2022, 9:00am-10:30am, Beijing Time (GMT+8) / Oct. 11, 2022, 6:00pm-7:30pm, PST / Oct. 11, 2022, 9:00pm-10:30pm, EST. 
 
 The title and abstract of the paper is as follows:
 
@@ -22,6 +22,17 @@ What are the international ramifications of China’s emergent leadership in fac
 **Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
 
 ## **<center>Past workshops</center>**
+### **<center>Tenth workshop</center>**
+The speaker of our tenth seminar was David Yang from Harvard University. His personal website is [http://davidyyang.com/](http://davidyyang.com/).
+
+The title and abstract of the paper is as follows:
+
+#### **<center>Exporting the Surveillance State via Trade in AI</center>** 
+
+What are the international ramifications of China’s emergent leadership in facial recognition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI innovation or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.
+
+**Register for CBRN seminars**: http://hk.mikecrm.com/4GHAgZg.
+
 ### **<center>Ninth workshop</center>**
 The speaker of our ninth seminar was Yuan Zhang from University of Texas at Dallas. Her personal website is [https://profiles.utdallas.edu/yuan.zhang2](https://profiles.utdallas.edu/yuan.zhang2).
 
