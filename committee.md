@@ -29,7 +29,7 @@ Please feel free to contact us via email: cbrn@cuhk.edu.cn.
 
 *   Serene Huang (Peking U)
 
-*   Mingyue Zhang (University of Toronto)
+*   Emma Wang (University of Toronto)
 
-*   Shubo Zhang (CUHK)
+*   Shubo Zhang (Shanghai Jiao Tong University)
 
