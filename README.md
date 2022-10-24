@@ -30,6 +30,6 @@ Organizing Committee
 Changyi Chen (NUS)
 AJ Yuan Chen (USC)
 Serene Huang (Peking U)
-Mingyue Zhang (University of Toronto)
-Shubo Zhang (CUHK)
+Emma Wang (University of Toronto)
+Shubo Zhang (Shanghai Jiao Tong University)
  
